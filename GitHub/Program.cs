@@ -13,8 +13,8 @@ namespace GitHub
             Console.WriteLine("hi ~!!!!");
             Console.WriteLine("hello~~~ for hotfix");
             Console.WriteLine("by~!~~~~ for hotfix");
-            Console.WriteLine("hotfix modify");
             Console.WriteLine("master modify ");
+            Console.WriteLine("hotfix modify");
         }
     }
 }
