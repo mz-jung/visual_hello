@@ -10,7 +10,7 @@ namespace GitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("수정");
+            Console.WriteLine("충돌 테스트1");
         }
     }
 }
