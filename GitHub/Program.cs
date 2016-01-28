@@ -10,11 +10,7 @@ namespace GitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hi ~!!!!");
-            Console.WriteLine("hello~~~ for hotfix");
-            Console.WriteLine("by~!~~~~ for hotfix");
-            Console.WriteLine("master modify ");
-            Console.WriteLine("hotfix modify");
+            Console.WriteLine("수정");
         }
     }
 }
